@@ -48,7 +48,7 @@
 
   [<img align="right" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
 
-<img align="center" src="assets/maw.gif" width="170" />
+<img align="center" src="assets/maw.gif" width="150" />
 <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=500&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" alt="Most cooked languages" /> 
 </div>
 
