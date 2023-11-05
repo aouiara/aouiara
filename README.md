@@ -42,15 +42,19 @@
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go" alt="skills planning to learn logos">
 </p>
-
-<p></p>
-  <h3 align="center"> <strong> Connect With Me </strong></h3>
-
-  [<img align="right" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
-</p>
-
-<img align="center" src="assets/maw.gif" width="150" />
-<img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=450&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" alt="Most cooked languages" /> 
+<br></br>
+<section>
+  <img align="center" src="assets/maw.gif" width="200" />
+  <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=450&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" alt="Most cooked languages" /> 
+</section>
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
+
+<section>
+  <h3 align="center"> <strong> Connect With Me </strong></h3>
+  
+  [<img align="center" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
+  [<img align="center" src="https://img.icons8.com/doodle/96/5eT5OnLluNOx/instagram.png" width="50" title="spotify">](https://www.instagram.com/aouiara/?hl=en)
+
+</section>
