@@ -44,7 +44,7 @@
 </p>
 <br></br>
 <section>
-  <img align="center" src="assets/maw.gif" width="200" />
+  <img align="center" src="assets/maw.gif" width="170" />
   <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=450&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" alt="Most cooked languages" /> 
 </section>
 
