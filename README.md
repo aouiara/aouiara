@@ -24,17 +24,17 @@
   <img src="assets/food.gif" width="950px"/> 
 </p>
 
-  <img align="left" src="assets/city.gif" alt="Fav city scene" width="500"/>
+  <img align="left" src="assets/city.gif" alt="Fav city scene" width="400"/>
   <br></br>  
   
 <div class="row" align="center">
-  <img align="center" src="assets/ramen.gif" width="250" title="Yum!">
+  <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
   <h2> <strong> Actively Learning </strong></h2>
   <p align="center">
-    <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-    <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-    <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-    <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+    <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" title="python">
+    <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="javascript">
+    <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="html">
+    <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="css">
       <br> </br>
     <img src="https://skillicons.dev/icons?i=bash,git,php" alt="skills actively learning logos">
   </p>
@@ -42,12 +42,15 @@
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go" alt="skills planning to learn logos">
 </p>
-<h3 align="center"> <strong> Connect With Me </strong></h3>
 
-[<img align="center" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
+<div>
+  <h3 align="center"> <strong> Connect With Me </strong></h3>
+
+  [<img align="right" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
 
 <img align="center" src="assets/maw.gif" width="200" />
 <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=500&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" alt="Most cooked languages" /> 
+</div>
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
