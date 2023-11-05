@@ -1,7 +1,7 @@
 <img align="center" src="assets/catto.gif" width=950px /> 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ara+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ara Welcome to my Profile! animated typed out">
 
-<img align="left" src="assets/em.gif" width="290" /> 
+<img align="left" src="assets/em.gif" width="240" /> 
 
 ```
 🏫 BS Computer Science with specialization in Digital Forensics student 
