@@ -43,10 +43,10 @@
   <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go" alt="skills planning to learn logos">
 </p>
 <br></br>
-<section>
+
   <img align="center" src="assets/maw.gif" width="170" />
   <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=450&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" alt="Most cooked languages" /> 
-</section>
+
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
