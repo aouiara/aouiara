@@ -30,7 +30,7 @@
   
 
 <div class="row" align="center">
-  <img align="left" src="assets/city.gif" alt="Fav city scene" />
+  <img align="left" src="assets/city.gif" alt="Fav city scene" width="500"/>
   <h2> <strong> Actively Learning </strong></h2>
   <p align="center">
     <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
