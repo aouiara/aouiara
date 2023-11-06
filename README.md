@@ -53,15 +53,13 @@
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=Obliviate!" align="middle" alt="Obliviate! animated typed out">
+
 <section>
   <h3 align="center"> <strong> Connect With Me </strong></h3>
 
-
-  
   [<img align="center" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
   [<img align="center" src="https://img.icons8.com/doodle/96/5eT5OnLluNOx/instagram.png" width="50" title="spotify">](https://www.instagram.com/aouiara/?hl=en)
 
 </section>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=Obliviate!" align="middle" alt="Hey, I'm Ara Welcome to my Profile! animated typed out">
