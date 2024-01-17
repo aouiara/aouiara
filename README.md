@@ -1,34 +1,33 @@
-<img align="center" src="assets/catto.gif" width=950px /> 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ara+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ara Welcome to my Profile! animated typed out">
+<img align="center" src="assets/me.gif" width=950px /> 
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ara+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ara Welcome to my Profile! animated typed out">
 
-<img align="left" src="assets/em.gif" width="270" title="Hi!" /> 
+<img align="left" src="assets/angel.jpg" width="270" title="Hi!" /> 
 
 ```
-🏫 BS Computer Science with specialization in Digital Forensics student 
-🔎 Main interests in Data Science & Cybersec
-🔭 Working on my Mental Health
-🌱 Learning about Machine Learning 
-🌟 Main languages: Python, Java, php 
-🚩 Interested in learning network security and web security
-💖 In a complicated relationship with loops and Eclipse IDE
-🖌️ Love reading non fictions, sports, gaming, watching movies and stargazing
-🎵 Love alternative rock, jazz, pop, classical and blues
-⚡ Love dumplings 🥟
-☕ Interest: Dogs, Self Care, Cats, Coffee, and Coding.
-🐾 I’m looking to network and make friends here!
-🌊 Hobbies: Crochet, Anime, Gacha Games, and Books.
+BS Computer Science with specialization in Digital Forensics student 
+Main interests in Data Science & Cybersec
+Working on my Mental Health
+Learning about Machine Learning 
+Main languages: Python, Java, php 
+Interested in learning network security and web security
+In a complicated relationship with loops and Eclipse IDE
+Love reading non fictions, sports, gaming, watching movies and stargazing
+Love alternative rock, jazz, pop, classical and blues
+Love dumplings 🥟
+Interest: Dogs, Self Care, Cats, Coffee, and Coding.
+I’m looking to network and make friends here!
+Hobbies: Crochet, Anime, Gacha Games, and Books.
 ```
 
 
 <p align="center"> 
-  <img src="assets/food.gif" width="950px" title="Food is Life!"/> 
+  <img src="assets/lib.jpg" width="950px" title="Learning is Life!"/> 
 </p>
 
-  <img align="left" src="assets/city.gif" title="Fav city scene" width="400"/>
+  <img align="left" src="assets/world.jpg" title="See" width="400"/>
   <br></br>  
   
 <div class="row" align="center">
-  <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
   <h2> <strong> Actively Learning </strong></h2>
   <p align="center">
     <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" title="python">
@@ -46,8 +45,8 @@
 <br></br>
 <br></br>
 
-  <img align="right" src="assets/maw.gif" width="170" title="maw"/>
-  <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=450&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" title="Most cooked languages" /> 
+  <img align="right" src="assets/soul.jpg" width="250" title="Feel"/><img align="right" src="assets/colorless.jpg" width="250" title="Feel"/>
+  <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=400&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" title="Most cooked languages" /> 
 
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
