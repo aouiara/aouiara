@@ -46,7 +46,7 @@ Hobbies: Crochet, Anime, Gacha Games, and Books.
 <br></br>
 
   <img align="right" src="assets/soul.jpg" width="250" title="Feel"/><img align="right" src="assets/colorless.jpg" width="250" title="Feel"/>
-  <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=400&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" title="Most cooked languages" /> 
+  <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=350&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" title="Most cooked languages" /> 
 
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
