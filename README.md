@@ -44,11 +44,11 @@ Hobbies: Crochet, Anime, Gacha Games, and Books.
   
 <br></br>
 <br></br>
-<div class="col 2"">
+<div class="col 3">
   <img align="right" src="assets/soul.jpg" width="200" title="Feel"/><img align="right" src="assets/colorless.jpg" width="200" title="Feel"/>
-</div>
   <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=350&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" title="Most cooked languages" /> 
-
+</div>
+  
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
