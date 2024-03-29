@@ -7,10 +7,10 @@
 BS Computer Science with specialization in Digital Forensics student 
 Main interests in Data Science & Cybersec
 Working on my Mental Health
-Learning about Machine Learning 
-Main languages: Python, Java, php 
-Interested in learning network security and web security
-In a complicated relationship with loops and Eclipse IDE
+Learning about Machine Learning, Blockchain and Data literacy 
+Main languages: Python, Java, php, JS, CSS, TS 
+Interested in learning Blockchain integration with AI
+In a complicated relationship with loops, SQL Rows function and Eclipse IDE
 Love reading non fictions, sports, gaming, watching movies and stargazing
 Love alternative rock, jazz, pop, classical and blues
 Love dumplings 🥟
@@ -28,22 +28,7 @@ Hobbies: Crochet, Anime, Gacha Games, and Books.
   <br></br>  
   
 <div class="row" align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <p align="center">
-    <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" title="python">
-    <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="javascript">
-    <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="html">
-    <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="css">
-      <br> </br>
-    <img src="https://skillicons.dev/icons?i=bash,git,php" title="skills actively learning logos">
-  </p>
-<p align="center">
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go" title="skills planning to learn logos">
-</p>
   
-<br></br>
-<br></br>
 <div class="col 3">
   <img align="right" src="assets/soul.jpg" width="200" title="Feel"/><img align="right" src="assets/colorless.jpg" width="200" title="Feel"/>
   <img align="left" src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=aouiara&langs_count=6&card_width=350&bg_color=000000&text_color=FFC0CB&hide_border=true&layout=compact" title="Most cooked languages" /> 
